@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bhosdike</string>
+    <string name="name_main">Bhosdike Streams</string>
+    <string name="retry">Retry</string>
+    <string name="live_badge">Live</string>
+    <string name="home_team_badge">Home team badge</string>
+    <string name="away_team_badge">Away team badge</string>
+    <string name="no_stream_available">No stream is available for this game yet.</string>
+    <string name="stream_activity_title">Stream</string>
+    <string name="loading_stream">Loading stream...</string>
+    <string name="choose_source">Choose source</string>
+    <string name="change_source">Change source</string>
+    <string name="enter_pip">Picture in Picture</string>
+    <string name="pip_not_supported">Picture-in-picture is not supported on this device.</string>
+    <string name="pip_fullscreen_hint">Enter fullscreen to enable picture-in-picture.</string>
+    <string name="pip_open_browser">Open in browser for PiP</string>
+    <string name="pip_open_browser_desc">This stream\'s embed blocks in-app PiP. Open in your browser, enter fullscreen, then swipe home to use PiP.</string>
+    <string name="open_in_browser">Open in browser</string>
+    <string name="search_matches">Search matches</string>
+    <string name="clear_search">Clear search</string>
+    <string name="status_done">Done</string>
+    <string name="start_time_format">Starts %1$s</string>
+</resources>
